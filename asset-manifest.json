@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.1e91dc95.chunk.css",
+    "main.js": "/portfolio/static/js/main.33b9710f.chunk.js",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.ec75c94c.js",
+    "static/js/2.0c142734.chunk.js": "/portfolio/static/js/2.0c142734.chunk.js",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.373e0ce7c79839ed102a5ca8b635ec45.js": "/portfolio/precache-manifest.373e0ce7c79839ed102a5ca8b635ec45.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/js/2.0c142734.chunk.js.LICENSE.txt": "/portfolio/static/js/2.0c142734.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/portfolio/static/media/EurostileBold.5d3c4a34.ttf",
+    "static/media/avataaars.svg": "/portfolio/static/media/avataaars.87ab1444.svg",
+    "static/media/avataaars_2.svg": "/portfolio/static/media/avataaars_2.ed45d35b.svg",
+    "static/media/avataaars_3.svg": "/portfolio/static/media/avataaars_3.2e1c7ae4.svg",
+    "static/media/logo.svg": "/portfolio/static/media/logo.5d5d9eef.svg",
+    "static/media/never-1 copy2.jpg": "/portfolio/static/media/never-1 copy2.4c1df707.jpg",
+    "static/media/never-1 copy3v2.jpg": "/portfolio/static/media/never-1 copy3v2.8dd2b392.jpg",
+    "static/media/never-1 copy4.jpg": "/portfolio/static/media/never-1 copy4.0286f2dc.jpg",
+    "static/media/never-1 copy5.jpg": "/portfolio/static/media/never-1 copy5.c772a833.jpg",
+    "static/media/never-1 copy6.jpg": "/portfolio/static/media/never-1 copy6.c8ebb0f2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec75c94c.js",
+    "static/js/2.0c142734.chunk.js",
+    "static/css/main.1e91dc95.chunk.css",
+    "static/js/main.33b9710f.chunk.js"
+  ]
+}
